@@ -1,0 +1,23 @@
+{
+  "name": "@mr3umar/hello-world",
+  "version": "0.0.1",
+  "description": "a try",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr3umar/hello-world.git"
+  },
+  "author": "Umar Alyahya <umar.alyahya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr3umar/hello-world/issues"
+  },
+  "homepage": "https://github.com/mr3umar/hello-world#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
